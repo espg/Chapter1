@@ -1,0 +1,8 @@
+To do items
+-----------
+
+- merge April 20th and 21st files into single version
+- provide command line options to drive the scripts
+- Clean up and generalize
+- Explicit bounds checking on the Tile script would be nice...
+
